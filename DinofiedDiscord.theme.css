@@ -1,0 +1,36 @@
+/*//META{"name":"Dinofied-Discord","description":"Adjust the padding and margin of various elements","author":"dinosw","version":"0.0.1"}*//
+
+.member.member-status {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 20px;
+}
+.scroller-fzNley.channel-members .old-h2 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+}
+.containerDefault-1bbItS {
+    padding-top: 15px;
+}
+.contentDefaultText-2elG3R.content-2mSKOj {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.contentDefaultVoice-311dxZ.content-2mSKOj {
+    margin-top: 0px;
+	margin-bottom: 0px;
+}
+.wrapperDefaultText-3M3F1R.wrapper-fDmxzK {
+	height: 28px;
+}
+.itemDefault-3NDwnY.item-3879bf {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 0px;
+}
+.itemSelected-3XxAMf.item-3879bf {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 0px;
+}

@@ -1,0 +1,17 @@
+/*//META{"name":"Dinofied-Discord-Emotes","description":"Makes emotes and the emojiPicker larger","author":"dinosw","version":"0.0.1"}*//
+
+.emojiPicker-3g68GS .scroller-2dsok0{ 
+  height: 450px;
+}
+.emoji
+  { width: 30px; height: 30px
+}
+.emoji.jumboable
+  { width: 45px; height: 45px
+}
+.reactions .emoji
+  { width: 30px; height: 30px
+}
+.titleWrapper-3Vi_wz .emoji
+  { width: 20px; height: 20px
+}
