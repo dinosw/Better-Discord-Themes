@@ -5,6 +5,10 @@
     padding-bottom: 1px;
     padding-left: 20px;
 }
+.channel-members h2 {
+    padding: 0;
+    text-align: center;
+}
 .scroller-fzNley.channel-members .old-h2 {
     margin-top: 15px;
     margin-bottom: 5px;
